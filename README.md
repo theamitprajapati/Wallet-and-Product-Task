@@ -1,5 +1,9 @@
 # Wallet-and-Product-Task
 
+## Requirement
+1. NodeJS
+2. Mongodb(For store data)
+3. Postman(For API testing)
 
 ## How to Install
 1. Download the source code.
